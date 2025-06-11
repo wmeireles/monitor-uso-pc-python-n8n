@@ -36,7 +36,7 @@ Este projeto automatiza o monitoramento de tempo de uso de um computador com **P
   "uptime_minutes": 38959,
   "cpu_percent": 23.5,
   "active_apps": ["TextInputHost", "Code", "ms-teams", "cmd", "ONENOTE"],
-  "user": "MININT-HCV893O"
+  "user": "HOSTNAME MAQUINA"
 }
 ```
 
